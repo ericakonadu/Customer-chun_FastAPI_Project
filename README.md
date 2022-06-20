@@ -1,4 +1,4 @@
-### Bank_customer_chun
+### Bank_customer_churn
 ## In this project, we tried to predict which bank customer will leave the bank base on some features. The chun is determine by an attrition rate so that we are able to know which customer will likely leave the bank so that the bank can make proactive actions reaching out to these customers before they eventually leave.
 
 The dataset for this project is gotten from kaggle repository. https://www.kaggle.com/code/kmalit/bank-customer-churn-prediction/data
